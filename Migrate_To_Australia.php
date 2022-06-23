@@ -39,7 +39,7 @@
          <main id="content" class="site-main">
             <!-- ***Inner Banner html start form here*** -->
             <div class="inner-banner-wrap">
-               <div class="inner-baner-container" style="background-image: url(assets/images/country/canada-place.jpg);">
+               <div class="inner-baner-container" style="background-image: url(assets/images/country/sydney-opera-house-354375_1280.jpg);">
                   <div class="container">
                      <div class="inner-banner-content">
                         <h1 class="page-title">Migrate To Australia</h1>
