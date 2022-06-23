@@ -62,8 +62,8 @@
                                  </div>
                               </figure>
                               <h2>HOW WE ARE BEST FOR TRAVEL !</h2>
-                              <p>Dictumst voluptas qui placeat omnis repellendus, est assumenda dolores facilisis, nostra, inceptos. Ullam laudantium deserunt duis platea. Fermentum diam, perspiciatis cupidatat justo quam voluptate, feugiat, quaerat. Delectus aute scelerisque blanditiis venenatis aperiam rem. Tempore porttitor orci eligendi velit vel scelerisque minus scelerisque? Dis! Aenean! Deleniti esse aperiam adipiscing, sapiente? </p>
-                              <p>Ratione conubia incididunt nullam! Sodales, impedit, molestias consectetuer itaque magni ut neque, lobortis expedita corporis voluptatem natus praesent mollis quidem auctor curae, mattis laboris diamlorem iure nullam esse? Pariatur primis.</p>
+                              <p>We are one of the very few overseas registered tour agents offering authentic services in the industry which is one of the many reasons for our clients’ trust and loyalty towards our services and is a licensed travel consultant by New Zealand travel Advisers Authority and qualified tour consultant & travel expert.</p>
+                              <p>Morning Breeze is one of the most renowned best and trusted travel consultant & tour abroad Agents in Pakistan. We have a successful track record of 18 years for providing excellent education consultancy services in tour abroad, Student Visa, travel, Business Travel, Skilled visa, Family and Visitor visa, and corporate entrepreneur work visa.We provide tour and travel Consultancy in Countries like Australia, Canada, New Zealand, Cyprus,Russia,Norway,Germany,Denmark and UK Consultant!</p>
                            </div>
                            <div class="client-slider white-bg">
                               <figure class="client-item">
@@ -90,7 +90,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>AFFORDABLE TOURS</h3>
-                                 <p>Iure doloremque saepe? Ultrices mi aliquam dis tempore incididunt sint, cumque dis temp!</p>
+                                 <p>We provide Affortable Toure for you and your family</p>
                               </div>
                            </div>
                            <div class="icon-box">
@@ -99,7 +99,8 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>BEST TOUR GUIDES</h3>
-                                 <p>Iure doloremque saepe? Ultrices mi aliquam dis tempore incididunt sint, cumque dis temp!</p>
+                                 <p>we provide top nouch tour guide best in town!</p>
+                                 <
                               </div>
                            </div>
                            <div class="icon-box">
@@ -107,8 +108,8 @@
                                  <i aria-hidden="true" class="fas fa-headset"></i>
                               </div>
                               <div class="icon-box-content">
-                                 <h3>AFFORDABLE TOURS</h3>
-                                 <p>Iure doloremque saepe? Ultrices mi aliquam dis tempore incididunt sint, cumque dis temp!</p>
+                                 <h3>Best Service</h3>
+                                 <p>we provide best serve for travelling and tour!</p>
                               </div>
                            </div>
                         </div>
@@ -117,28 +118,7 @@
                </div>
                <!-- ***about section html start form here*** -->
                <!-- ***callback section html start form here*** -->
-               <div class="bg-img-fullcallback" style="background-image: url(assets/images/img7.jpg);">
-                  <div class="overlay"></div>
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-lg-8 offset-lg-2 text-center">
-                           <div class="callback-content">
-                              <div class="video-button">
-                                 <a  id="video-container" data-fancybox="video-gallery" href="https://www.youtube.com/watch?v=2OYar8OHEOU">
-                                    <i class="fas fa-play"></i>
-                                 </a>
-                              </div>
-                              <h2 class="section-title">ARE YOU READY TO TRAVEL? REMEMBER US !!</h2>
-                              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui, ut quis deserunt, fugit enim veniam sunt unde dolorem quos dignissimos rerum vel tempora tempore laudantium. Expedita animi dolorum inventore vitae.</p>
-                              <div class="callback-btn">
-                                 <a href="package.html" class="round-btn">View Packages</a>
-                                 <a href="about.html" class="outline-btn outline-btn-white">Learn More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+             
                <!-- ***callback section html end here*** -->
             </section>
          </main>
