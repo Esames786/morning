@@ -57,7 +57,7 @@
                   <section class="visa-detail-area">
         <div class="container">
             <div class="row">
-                <div class="col-xl-8 col-lg-8 col-md-12">
+                <div class="col-xl-12 col-lg-8 col-md-12">
                     <div class="visa-detail-content">
                         <div class="text-box">
                             <br>
@@ -173,102 +173,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-12">
-                    <div class="sidebar-style1">
-                        <!--Start Single Sidebar Style1-->
-                        <div class="single-sidebar-style1">
-                            <ul class="page-links">
-                                <li><a href="study_canada.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In
-                                        Canada</a></li>
-                                <li><a href="study_us.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study In USA</a>
-                                </li>
-                                <li><a href="study_australia.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In Australia</a></li>
-                                <li><a href="study_uk.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In
-                                        UK</a></li>
-                                <li class="active"><a href="study_newzealand.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In New zealand</a></li>
-                                <li><a href="study_europe.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In Europe</a></li>
-                                <li><a href="study_poland.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In Poland</a></li>
-                                <li><a href="study_cyprus.php"><i class="fa fa-angle-left" aria-hidden="true"></i>Study
-                                        In Cyprus</a></li>
-
-
-                            </ul>
-                        </div>
-                        <!--End Single Sidebar Style1-->
-                        <!--Start Single Sidebar Style1-->
-                        <div class="single-sidebar-style1 last-child">
-                            <div class="title">
-                                <p>You Select Now</p>
-
-                                <h3>The Destiation To Fly!</h3>
-                            </div>
-                            <div class="visa-form-box">
-                                <form id="visa-form" name="visa_form" class="default-form2" action="#" method="post">
-                                    <div class="row">
-                                        <div class="col-xl-12 col-lg-12">
-                                            <div class="input-box">
-                                                <input type="text" name="form_name" value="" placeholder="Name" required="">
-
-                                                <div class="icon"><span class="flaticon-user"></span></div>
-                                            </div>
-                                            <div class="input-box">
-                                                <input type="text" name="form_phone" value="" placeholder="Phone">
-
-                                                <div class="icon"><span class="flaticon-telephone"></span></div>
-                                            </div>
-                                            <div class="input-box">
-                                                <input type="email" name="form_email" value="" placeholder="Email" required="">
-
-                                                <div class="icon"><span class="flaticon-mail-2"></span></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="input-box">
-                                                <div class="dropdown bootstrap-select" style="width: 100%;"><select class="selectpicker" data-width="100%" tabindex="-98">
-                                                    <option selected="selected">Choose Visa</option>
-                                                    <option>Student Visa</option>
-                                                    <option>Business Visa</option>
-                                                    <option>Job Seeker Visa</option>
-                                                    <option>Tourist Visa</option>
-                                                    <option>Diplomatic Visa</option>
-                                                    <option>Family Visa</option>
-                                                    <option>Transit Visa</option>
-                                                    <option>Migrate Visa</option>
-                                                </select><button type="button" class="btn dropdown-toggle btn-light" data-toggle="dropdown" role="button" title="Choose Visa"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">Choose Visa</div></div> </div></button><div class="dropdown-menu " role="combobox"><div class="inner show" role="listbox" aria-expanded="false" tabindex="-1"><ul class="dropdown-menu inner show"></ul></div></div></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="input-box">
-                                                <textarea name="form_message" placeholder="Message" required=""></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="button-box">
-                                                <button class="btn-one" type="submit">
-                                                    <span class="txt">Apply Now</span>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-
-                        </div>
-                        <!--End Single Sidebar Style1-->
-                    </div>
-                </div>
+              
             </div>
     </div></section>
                   </div>
