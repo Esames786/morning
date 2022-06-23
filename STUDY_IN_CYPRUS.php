@@ -60,19 +60,7 @@
 
                                                     <h2 style="color: #1e73be;text-align: left" class="custom_heading custom_1580287138534">
                                                        Why Study in Cyprus</h2><br>
-                                                    <br><blockquote>
-                                                        <div class="" data-block="true" data-editor="f7n9e" data-offset-key="88eaj-0-0">
-                                                            <h3><strong>STUDY IN CYPRUS<br></strong></h3><br>
-
-                                                            <h3>⭐ Gateway to Europe<br>⭐ Confirm visa approval<br>⭐
-                                                                Work Allowed During Studies<br>⭐ 100% No IELTS
-                                                                required<br>⭐ Degree Programs</h3>
-
-                                                            <h3>⭐ NO advance consultancy fee<br>Golden chances
-                                                                for<br>Engineering, social sciences, IT and other
-                                                                fields</h3>
-                                                        </div>
-                                                    </blockquote>
+                                                    <br>
 
                                                     <p>Cyprus is the place where the people want to visit and work.
                                                         It’s a European state and going to be part of schengen in
