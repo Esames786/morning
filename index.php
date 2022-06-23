@@ -85,7 +85,7 @@
                      <div class="col-lg-8 offset-lg-2 text-sm-center">
                         <div class="section-heading">
                            <h5 class="sub-title">UNCOVER PLACE</h5>
-                           <h2 class="section-title">POPULAR DESTINATIONN</h2>
+                           <h2 class="section-title">POPULAR DESTINATIONNnn</h2>
                         </div>
                      </div>
                   </div>
