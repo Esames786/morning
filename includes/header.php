@@ -117,9 +117,9 @@
                                     <li>
                                        <a href="Migrate_To_Russia.php">Migrate To Russia</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                        <a href="Migrate_To_EUROPE.php">Migrate To EUROPE</a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                        <a href="Migrate_To_NEWZEALAND.php">Migrate To NEWZEALAND</a>
                                     </li>
