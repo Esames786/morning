@@ -39,7 +39,7 @@
          <main id="content" class="site-main">
             <!-- ***Inner Banner html start form here*** -->
             <div class="inner-banner-wrap">
-               <div class="inner-baner-container" style="background-image: url(assets/images/img7.jpg);">
+               <div class="inner-baner-container" style="background-image: url(assets/images/country/canada-place.jpg);">
                   <div class="container">
                      <div class="inner-banner-content">
                         <h1 class="page-title">Migrate To Canada</h1>
@@ -50,9 +50,7 @@
             <!-- ***Inner Banner html end here*** -->
             <div class="single-page-section">
                <div class="container">
-                  <figure class="single-feature-img">
-                     <img src="assets/images/img16.jpg" alt="">
-                  </figure>
+                  
                   <div class="page-content">
                   <section class="visa-detail-area">
         <div id="content" class="site-content">
