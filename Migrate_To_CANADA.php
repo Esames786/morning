@@ -57,19 +57,7 @@
                   <section class="visa-detail-area">
         <div id="content" class="site-content">
 
-            <div class="page-header" style="background-image: url(https://asiaenterprises.org/wp-content/uploads/2020/01/Capture.png);">
-                <div class="container">
-                    <div class="breadc-box no-line">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h1 class="page-title"></h1>
-                            </div>
-                            <div class="col-md-6 mobile-left text-right">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    
 
             <section class="wpb_row row-fluid">
                 <div class="container">
