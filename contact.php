@@ -40,7 +40,7 @@
             <section class="contact-inner-page">
                <!-- ***Inner Banner html start form here*** -->
                <div class="inner-banner-wrap">
-                  <div class="inner-baner-container" style="background-image: url(assets/images/img7.jpg);">
+                  <div class="inner-baner-container" style="background-image: url(assets/images/country/cover.jpg);">
                      <div class="container">
                         <div class="inner-banner-content">
                            <h1 class="page-title">Contact US</h1>
@@ -57,7 +57,8 @@
                            <div class="section-heading">
                               <h5 class="sub-title">GET IN TOUCH</h5>
                               <h2 class="section-title">REACH & CONTACT US!</h2>
-                              <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent. Eget feugiat error necessitatibus taciti..</p>
+                              <p>Feel free to get in touch with me. We alwasy open to discussing now projects,
+createive ideas or opportunities to be part of your visions</p>
                               <div class="social-icon">
                                  <ul>
                                     <li>
