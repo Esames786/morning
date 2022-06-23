@@ -65,7 +65,7 @@
                                 <div class="wpb_wrapper">
                                     <div class="wpb_text_column wpb_content_element ">
                                         <div class="wpb_wrapper">
-                                            <br> <h2 style="color: #1e73be;font-family:Abril Fatface;font-weight:400;font-style:normal" class="custom_heading">What is Express Entry?</h2><br>
+                                            <br> <h2 style="color: #1e73be;font-family:Abril Fatface;font-weight:400;font-style:normal" class="custom_heading">MIGRATE TO CANADA?</h2><br>
                                             <p>Express Entry is not an immigration program by itself, but an electronic
                                                 management system for immigration programs introduced by Immigration,
                                                 Refugees and Citizenship Canada (IRCC) on 1 January 2015. &amp;nbsp;It
