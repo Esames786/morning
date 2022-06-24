@@ -39,6 +39,23 @@
          <main id="content" class="site-main">
             <!-- ***home banner html start form here*** -->
             <section class="home-banner-section home-banner-slider">
+               <div class="home-banner d-flex flex-wrap align-items-center" style="background-image: url(assets/images/13d.png);">
+                    <div class="overlay"></div>
+                    <div class="container">
+                        <div class="banner-content text-center">
+                            <div class="row">
+                                <div class="col-lg-8 offset-lg-2">
+                                    <h2 class="banner-title">Explore World With Morning Breeze</h2>
+                                    <p style="font-size:25px`1"> </p>
+                                    <div class="banner-btn">
+                                        <!-- <a href="about.html" class="round-btn">LEARN MORE</a> -->
+                                        <!-- <a href="contact.php" class="outline-btn outline-btn-white">BOOK NOW</a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                <div class="home-banner d-flex flex-wrap align-items-center" style="background-image: url(assets/images/banner-img1.jpg);">
                   <div class="overlay"></div>
                   <div class="container">
@@ -483,12 +500,12 @@
                                  <p>
                                     Travel to USA and enjoy with us
                                  </p>
-                                 <div class="price-list">
-                                    price: 
-                                    <del>130000/Rs </del>
-                                    <ins>110500/Rs</ins>
-                                 </div>
-                                 <a href="contact.php" class="round-btn">Book Now</a>
+<!--                                 <div class="price-list">-->
+<!--                                    price: -->
+<!--                                    <del>130000/Rs </del>-->
+<!--                                    <ins>110500/Rs</ins>-->
+<!--                                 </div>-->
+                                 <a href="contact.php" class="round-btn">Contact Us</a>
                               </div>
                            </article>
                         </div>
@@ -520,12 +537,12 @@
                                  <p>
                                     travel to Australia and enjoy with us.
                                  </p>
-                                 <div class="price-list">
-                                    price: 
-                                    <del>110000/Rs </del>
-                                    <ins>90000/Rs</ins>
-                                 </div>
-                                 <a href="contact.php" class="round-btn">Book Now</a>
+<!--                                 <div class="price-list">-->
+<!--                                    price: -->
+<!--                                    <del>110000/Rs </del>-->
+<!--                                    <ins>90000/Rs</ins>-->
+<!--                                 </div>-->
+                                 <a href="contact.php" class="round-btn">Contact Us</a>
                               </div>
                            </article>
                         </div>
