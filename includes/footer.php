@@ -27,18 +27,18 @@
                                     <li>
                                        <a href="tel:+01988256203">
                                           <i aria-hidden="true" class="icon icon-phone1"></i>
-                                          +111 111 111
+                                          +923009262041
                                        </a>
                                     </li>
                                     <li>
                                        <a href="mailtop:info@domain.com">
                                           <i aria-hidden="true" class="icon icon-envelope1"></i>
-                                          admin@morningbreeze.com
+                                          admin@morningbreeze.net
                                        </a>
                                     </li>
                                     <li>
                                        <i aria-hidden="true" class="icon icon-map-marker1"></i>
-                                       1234 ,usa
+                                        Plot#A-17 Row-2 Blk-B, Block 10-A
                                     </li>
                                  </ul>
                               </div>

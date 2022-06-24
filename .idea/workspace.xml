@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de86b1d-8510-4d21-baad-e8cd23fda540" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Migrate_To_CANADA.php" afterPath="$PROJECT_DIR$/Migrate_To_CANADA.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/includes/footer.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,55 +13,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Migrate_To_CANADA.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Migrate_To_CANADA.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="58" column="62" lean-forward="false" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
-              <folding>
-                <element signature="n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10526#10532#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#12435#12441#0#HTML" expanded="true" />
-                <element signature="e#12495#12501#0#HTML" expanded="true" />
-                <element signature="e#12782#12788#0#HTML" expanded="true" />
-                <element signature="e#13741#13747#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#15429#15435#0#HTML" expanded="true" />
-                <element signature="e#15850#15856#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#21164#21170#0#HTML" expanded="true" />
-                <element signature="e#21188#21194#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#30007#30012#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#10;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#33351#33357#1#HTML" expanded="true" />
-                <element signature="e#33713#33719#1#HTML" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#11;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#36347#36353#0#HTML" expanded="true" />
-                <element signature="e#36510#36516#0#HTML" expanded="true" />
-                <element signature="e#36636#36642#0#HTML" expanded="true" />
-                <element signature="e#36670#36676#0#HTML" expanded="true" />
-                <element signature="n#section#2;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#3;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#4;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#6;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="-146">
+              <caret line="40" column="73" lean-forward="false" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>read m</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +37,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Migrate_To_CANADA.php" />
+        <option value="$PROJECT_DIR$/includes/footer.php" />
       </list>
     </option>
   </component>
@@ -108,6 +76,11 @@
               <item name="morning" type="b2602c69:ProjectViewProjectNode" />
               <item name="morning" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656075500234</updated>
-      <workItem from="1656075501508" duration="506000" />
+      <workItem from="1656075501508" duration="1350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="506000" />
+    <option name="totallyTimeSpent" value="1350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -160,7 +133,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23848684" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45394737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -226,6 +199,22 @@
             <element signature="n#section#5;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="189" column="69" lean-forward="false" selection-start-line="189" selection-start-column="68" selection-end-line="189" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="40" column="73" lean-forward="false" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>
