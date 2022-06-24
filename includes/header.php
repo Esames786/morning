@@ -16,7 +16,7 @@
                         <h1 class="site-title">
                            <a href="index.php">
                               <!-- <img src="assets/images/site-logo.png" alt="Logo"> -->
-                              <h2 style="color:white">𝕸𝖔𝖗𝖓𝖎𝖓𝖌 𝕭𝖗𝖊𝖊𝖟𝖊</h2>
+                              <h2 class="logo_style" style="color:white">𝕸𝖔𝖗𝖓𝖎𝖓𝖌 𝕭𝖗𝖊𝖊𝖟𝖊</h2>
                            </a>
                         </h1>
                      </div>
