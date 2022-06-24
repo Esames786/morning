@@ -55,7 +55,7 @@
                      <div class="row">
                         <div class="col-lg-8">
                            <div class="section-heading">
-                              <h2 class="section-title">Business Visa</h2>
+                              <h2 class="section-title">Job Visa</h2>
                               <div class="text-box">
 
                             <p>Canada is still accepting work permit applications. The following foreign workers are now
