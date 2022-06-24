@@ -56,7 +56,7 @@
                         <div class="col-lg-8">
                            <div class="about-content">
                               <figure class="about-image">
-                                 <img src="assets/images/13d.png" alt="">
+                                 <img src="assets/images/img27.jpg" alt="">
                                  <div class="about-image-content">
                                     <h3>WE ARE BEST FOR TOURS & TRAVEL SINCE 2004 !</h3>
                                  </div>
