@@ -53,7 +53,7 @@
                <div class="inner-contact-wrap">
                   <div class="container">
                      <div class="row">
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                            <div class="section-heading">
                               <h2 class="section-title">Student Visa</h2>
                               <div class="text-box">
@@ -164,27 +164,7 @@
                            <div class="contact-map">
                            </div>
                         </div>
-                        <div class="col-lg-4">
-                           <div class="contact-from-wrap primary-bg">
-                              <form method="get" class="contact-from">
-                                 <p>
-                                    <label>First Name..</label>
-                                    <input type="text" name="name" placeholder="Your Name*">
-                                 </p>
-                                 <p>
-                                    <label>Email Address</label>
-                                    <input type="email" name="email" placeholder="Your Email*">
-                                 </p>
-                                 <p>
-                                    <label>Comments / Questions</label>
-                                    <textarea rows="8" placeholder="Your Message*"></textarea>
-                                 </p>
-                                 <p>
-                                    <input type="submit" name="submit" value="SUBMIT MESSAGE">
-                                 </p>
-                              </form>
-                           </div>
-                        </div>
+                       
                      </div>
                   </div>
                </div>

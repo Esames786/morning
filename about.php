@@ -65,23 +65,7 @@
                               <p>We are one of the very few overseas registered tour agents offering authentic services in the industry which is one of the many reasons for our clients’ trust and loyalty towards our services and is a licensed travel consultant by New Zealand travel Advisers Authority and qualified tour consultant & travel expert.</p>
                               <p>Morning Breeze is one of the most renowned best and trusted travel consultant & tour abroad Agents in Pakistan. We have a successful track record of 18 years for providing excellent education consultancy services in tour abroad, Student Visa, travel, Business Travel, Skilled visa, Family and Visitor visa, and corporate entrepreneur work visa.We provide tour and travel Consultancy in Countries like Australia, Canada, New Zealand, Cyprus,Russia,Norway,Germany,Denmark and UK Consultant!</p>
                            </div>
-                           <div class="client-slider white-bg">
-                              <figure class="client-item">
-                                 <img src="assets/images/client-img7.png" alt="">
-                              </figure>
-                              <figure class="client-item">
-                                 <img src="assets/images/client-img8.png" alt="">
-                              </figure>
-                              <figure class="client-item">
-                                 <img src="assets/images/client-img9.png" alt="">
-                              </figure>
-                              <figure class="client-item">
-                                 <img src="assets/images/client-img10.png" alt="">
-                              </figure>
-                              <figure class="client-item">
-                                 <img src="assets/images/client-img11.png" alt="">
-                              </figure>
-                           </div>
+                          
                         </div>
                         <div class="col-lg-4">
                            <div class="icon-box">
@@ -113,6 +97,23 @@
                               </div>
                            </div>
                         </div>
+                        <div class="client-slider white-bg">
+                              <figure class="client-item">
+                                 <img src="assets/images/client-img7.png" alt="">
+                              </figure>
+                              <figure class="client-item">
+                                 <img src="assets/images/client-img8.png" alt="">
+                              </figure>
+                              <figure class="client-item">
+                                 <img src="assets/images/client-img9.png" alt="">
+                              </figure>
+                              <figure class="client-item">
+                                 <img src="assets/images/client-img10.png" alt="">
+                              </figure>
+                              <figure class="client-item">
+                                 <img src="assets/images/client-img11.png" alt="">
+                              </figure>
+                           </div>
                      </div>
                   </div>
                </div>
