@@ -103,7 +103,7 @@
                                     <!-- <a href="destination.html">Australia</a> -->
                                  </span>
                                  <h3>
-                                    <a href="package-detail.html">Australia</a>
+                                    <a href="STUDY_IN_AUSTRALIA.php">Australia</a>
                                  </h3>
                                  <p>Australia, is a sovereign country comprising the mainland of the Australian continent</p>
                               </div>
@@ -118,10 +118,10 @@
                                     </div>
                                  </div>
                                  <span class="cat-link">
-                                    <a href="destination.html"></a>
+                                    <a href="STUDY_IN_USA.php"></a>
                                  </span>
                                  <h3>
-                                    <a href="package-detail.html">USA</a>
+                                    <a href="STUDY_IN_USA.php">USA</a>
                                  </h3>
                                  <p>The U.S. is a country of 50 states covering a vast swath of North America</p>
                               </div>
@@ -136,10 +136,10 @@
                                     </div>
                                  </div>
                                  <span class="cat-link">
-                                    <a href="destination.html"></a>
+                                    <a href="STUDY_IN_CANADA.php"></a>
                                  </span>
                                  <h3>
-                                    <a href="package-detail.html">Canada</a>
+                                    <a href="STUDY_IN_CANADA.php">Canada</a>
                                  </h3>
                                  <p>Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean</p>
                               </div>
@@ -147,7 +147,7 @@
                         </div>
                      </div>
                      <div class="section-btn-wrap text-center">
-                        <a href="#" class="round-btn">More Destination</a>
+                        <a href="about.php" class="round-btn">About Us</a>
                      </div>
                   </div>
                </div>
@@ -238,10 +238,10 @@
                               </div>
                               <h2 class="section-title">ARE YOU READY TO TRAVEL? REMEMBER US !!</h2>
                               <!-- <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p> -->
-                              <div class="callback-btn">
+                              <!-- <div class="callback-btn"> -->
                                  <!-- <a href="package.html" class="round-btn">View Packages</a> -->
                                  <!-- <a href="about.html" class="outline-btn outline-btn-white">Learn More</a> -->
-                              </div>
+                              <!-- </div> -->
                            </div>
                         </div>
                      </div>
@@ -484,10 +484,10 @@
                                  </p>
                                  <div class="price-list">
                                     price: 
-                                    <del>$1300 </del>
-                                    <ins>$1105</ins>
+                                    <del>130000/Rs </del>
+                                    <ins>110500/Rs</ins>
                                  </div>
-                                 <a href="booking.html" class="round-btn">Book Now</a>
+                                 <a href="contact.php" class="round-btn">Book Now</a>
                               </div>
                            </article>
                         </div>
@@ -514,23 +514,23 @@
                                     </ul>
                                  </div>
                                  <h3>
-                                    <a href="package.html">WEEKEND TO Australia</a>
+                                    <a href="contact.php">WEEKEND TO Australia</a>
                                  </h3>
                                  <p>
                                     travel to Australia and enjoy with us.
                                  </p>
                                  <div class="price-list">
                                     price: 
-                                    <del>$1100 </del>
-                                    <ins>$900</ins>
+                                    <del>110000/Rs </del>
+                                    <ins>90000/Rs</ins>
                                  </div>
-                                 <a href="booking.html" class="round-btn">Book Now</a>
+                                 <a href="contact.php" class="round-btn">Book Now</a>
                               </div>
                            </article>
                         </div>
                      </div>
                      <div class="section-btn-wrap text-center">
-                        <a href="#" class="round-btn">VIEW ALL PACKAGES</a>
+                        <a href="contact.php" class="round-btn">Contact Us</a>
                      </div>
                   </div>
                </div>
@@ -595,9 +595,9 @@
                   <div class="row align-items-center">
                      <div class="col-lg-6">
                         <div class="client-content">
-                           <h5 class="sub-title">DISCOUNT OFFER</h5>
-                           <h2 class="section-title">GET SPECIAL DISCOUNT ON SIGN UP !</h2>
-                           <a href="contact.php" class="round-btn">Sign Up Now</a>
+                           <h5 class="sub-title"></h5>
+                           <h2 class="section-title">DISCOUNT OFFER !</h2>
+                           <a href="contact.php" class="round-btn">Contact Us Now</a>
                         </div>
                      </div>
                      <div class="col-lg-6">
