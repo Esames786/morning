@@ -53,7 +53,7 @@
                <div class="inner-about-wrap">
                   <div class="container">
                      <div class="row">
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                            <div class="about-content">
                               <figure class="about-image">
                                  <img src="assets/images/img27.jpg" alt="">
