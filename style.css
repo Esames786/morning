@@ -6799,27 +6799,24 @@ input[type=submit]:focus {
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  .logo_style {color: red !important;}
+  .logo_style {
+    font-size: 16px;
+    margin-top: 24px;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  .logo_style {color: green !important;}
+  .logo_style {
+    font-size: 25px;
+    margin-top: 16px;}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  .logo_style {color: blue !important;}
+  .logo_style {
+    font-size: 31px;
+    margin-top: 16px;
+  }
 } 
 
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-  .logo_style {color: orange !important;}
-} 
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-  .logo_style {color: pink !important;}
-}
-
-/*# sourceMappingURL=style.css.map */
