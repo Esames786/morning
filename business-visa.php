@@ -53,7 +53,7 @@
                <div class="inner-contact-wrap">
                   <div class="container">
                      <div class="row">
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                            <div class="section-heading">
                               <h2 class="section-title">Business Visa</h2>
                               <div class="text-box">
