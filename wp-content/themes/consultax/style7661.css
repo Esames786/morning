@@ -1,0 +1,99 @@
+
+
+.service-box {
+  position: relative;
+  background: #fff;
+  padding: 25px 30px 28px;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  overflow: hidden;
+}
+.service-box i, .service-box imgg {
+  font-size: 40px;
+  max-width: 50px;
+  color: #f26522;
+  margin-bottom: 20px;
+  line-height: 1;
+  display: inline-block;
+}
+.service-box p:last-child {
+  margin-bottom: 0;
+}
+.service-box .link-box {
+  color: #737373;
+  border-color: #c1c1c1;
+  font-weight: 700;
+}
+.service-box .link-box:visited {
+  color: #737373;
+}
+.service-box .link-box:hover {
+  color: #f26522;
+  border-color: #f26522;
+}
+.service-box:hover {
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
+.service-box.hover-box:hover {
+  background: #00387a;
+  color: #fff;
+}
+.service-box.hover-box:hover h4 {
+  color: #fff;
+}
+.service-box.hover-box:hover .link-box {
+  color: #f26522;
+  border-color: #f26522;
+}
+.service-box.hover-box:hover .link-box:visited {
+  color: #f26522;
+}
+.service-box.hover-box:hover .link-box:hover {
+  color: #fff;
+  border-color: #fff;
+}
+.service-box.bg-alt {
+  background: #e5eef6;
+}
+.service-box.transparent {
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.8);
+}
+.service-box.transparent i, .service-box.transparent imgg {
+  margin-bottom: 38px;
+  color: #fff;
+}
+.service-box.transparent h4 {
+  margin-bottom: 13px;
+  color: #fff;
+}
+.service-box.transparent .link-box {
+  color: rgba(255, 255, 255, 0.8);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.service-box.transparent .link-box:visited {
+  color: rgba(255, 255, 255, 0.8);
+}
+.service-box.transparent .link-box:hover {
+  color: #fff;
+  border-color: #fff;
+}
+.service-box.transparent:hover {
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: none;
+}
+.archive .service-box {
+  margin-bottom: 30px;
+}
+
+a .service-box {
+  color: #252525;
+}
+
