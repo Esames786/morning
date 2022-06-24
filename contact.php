@@ -24,7 +24,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet">
       <!-- Custom CSS -->
       <link rel="stylesheet" type="text/css" href="style.css">
-      <title>Contact | Traveler – Travel & Trip Business HTML5 Template</title>
+      <title>Contact | Morning Breeze</title>
    </head>
    <body>
       <div id="siteLoader" class="site-loader">
@@ -132,13 +132,7 @@ createive ideas or opportunities to be part of your visions</p>
                                  <h4>EMAIL ADDRESS</h4>
                                  <ul>
                                     <li>
-                                       <a href="mailto:support@gmail.com">support@gmail.com</a>
-                                    </li>
-                                    <li>
-                                       <a href="mailto:name@comapny.com">name@comapny.com</a>
-                                    </li>
-                                    <li>
-                                       <a href="mailto:info@domain.com">info@domain.com</a>
+                                       <a href="mailto:admin@morningbreeze.net">admin@morningbreeze.net</a>
                                     </li>
                                  </ul>
                               </div>
@@ -153,14 +147,9 @@ createive ideas or opportunities to be part of your visions</p>
                                  <h4>PHONE NUMBER</h4>
                                  <ul>
                                     <li>
-                                       <a href="tell:+132599254669">+1111 111 111</a>
+                                       <a href="tell:+923009262041">+923009262041</a>
                                     </li>
-                                    <li>
-                                       <a href="callto:123669255587">+111 111 111 </a>
-                                    </li>
-                                    <li>
-                                       <a href="callto:01977259912">+111 111 111</a>
-                                    </li>
+
                                  </ul>
                               </div>
                            </div>
@@ -174,13 +163,7 @@ createive ideas or opportunities to be part of your visions</p>
                                  <h4>ADDRESS LOCATION</h4>
                                  <ul>
                                     <li>
-                                      abc ,usa
-                                    </li>
-                                    <li>
-                                    abc ,usa
-                                    </li>
-                                    <li>
-                                    abc ,usa
+                                        Plot#A-17 Row-2 Blk-B, Block 10-A Gulistan-e-juhar
                                     </li>
                                  </ul>
                               </div>

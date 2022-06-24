@@ -13,12 +13,12 @@
                               </div>
                            </aside>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
+                        <div class="col-lg-2 col-sm-6">
                            
                         </div>
                         
                        
-                        <div class="col-lg-3 col-sm-6">
+                        <div class="col-lg-4 col-sm-6">
                            <aside class="widget widget_text">
                               <h3 class="widget-title">CONTACT US</h3>
                               <div class="textwidget widget-text">
