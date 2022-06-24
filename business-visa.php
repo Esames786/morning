@@ -132,7 +132,7 @@
                                                 </ul>
                                             </div>
                                             <div class="col-xl-5">
-                                                <img src="assets/images/visa/visa-detail-2.jpg" alt="Awesome Image">
+                                                <!-- <img src="assets/images/visa/visa-detail-2.jpg" alt="Awesome Image"> -->
                                             </div>
                                         </div>
                                     </div>
