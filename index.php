@@ -231,11 +231,11 @@
                      <div class="row">
                         <div class="col-lg-8 offset-lg-2 text-center">
                            <div class="callback-content">
-                              <div class="video-button">
+                              <!-- <div class="video-button">
                                  <a  id="video-container" data-fancybox="video-gallery" href="https://www.youtube.com/watch?v=2OYar8OHEOU">
                                     <i class="fas fa-play"></i>
                                  </a>
-                              </div>
+                              </div> -->
                               <h2 class="section-title">ARE YOU READY TO TRAVEL? REMEMBER US !!</h2>
                               <!-- <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p> -->
                               <!-- <div class="callback-btn"> -->
