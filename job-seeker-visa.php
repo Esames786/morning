@@ -24,7 +24,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet">
       <!-- Custom CSS -->
       <link rel="stylesheet" type="text/css" href="style.css">
-      <title>Student Visa </title>
+      <title>Job Visa </title>
    </head>
    <body>
       <div id="siteLoader" class="site-loader">
@@ -43,7 +43,7 @@
                   <div class="inner-baner-container" style="background-image: url(assets/images/country/cover.jpg);">
                      <div class="container">
                         <div class="inner-banner-content">
-                           <h1 class="page-title">Business Visa</h1>
+                           <h1 class="page-title">Job Visa</h1>
                         </div>
                      </div>
                   </div>
