@@ -24,7 +24,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet">
       <!-- Custom CSS -->
       <link rel="stylesheet" type="text/css" href="style.css">
-      <title>Student Visa </title>
+      <title>Job Visa </title>
    </head>
    <body>
       <div id="siteLoader" class="site-loader">
@@ -43,7 +43,7 @@
                   <div class="inner-baner-container" style="background-image: url(assets/images/country/cover.jpg);">
                      <div class="container">
                         <div class="inner-banner-content">
-                           <h1 class="page-title">Business Visa</h1>
+                           <h1 class="page-title">Job Visa</h1>
                         </div>
                      </div>
                   </div>
@@ -55,7 +55,7 @@
                      <div class="row">
                         <div class="col-lg-8">
                            <div class="section-heading">
-                              <h2 class="section-title">Business Visa</h2>
+                              <h2 class="section-title">Job Visa</h2>
                               <div class="text-box">
 
                             <p>Canada is still accepting work permit applications. The following foreign workers are now
@@ -161,27 +161,7 @@
                            <div class="contact-map">
                            </div>
                         </div>
-                        <div class="col-lg-4">
-                           <div class="contact-from-wrap primary-bg">
-                              <form method="get" class="contact-from">
-                                 <p>
-                                    <label>First Name..</label>
-                                    <input type="text" name="name" placeholder="Your Name*">
-                                 </p>
-                                 <p>
-                                    <label>Email Address</label>
-                                    <input type="email" name="email" placeholder="Your Email*">
-                                 </p>
-                                 <p>
-                                    <label>Comments / Questions</label>
-                                    <textarea rows="8" placeholder="Your Message*"></textarea>
-                                 </p>
-                                 <p>
-                                    <input type="submit" name="submit" value="SUBMIT MESSAGE">
-                                 </p>
-                              </form>
-                           </div>
-                        </div>
+                       
                      </div>
                   </div>
                </div>

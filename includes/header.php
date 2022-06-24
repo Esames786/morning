@@ -21,11 +21,11 @@
                         </h1>
                      </div>
                      <div class="header-icon text-right">
-                        <div class="header-search-icon d-inline-block">
-                           <a href="#">
+                        <!-- <div class="header-search-icon d-inline-block"> -->
+                           <!-- <a href="#"> -->
                               <!-- <i aria-hidden="true" class="fas fa-search"></i> -->
-                           </a>
-                        </div>
+                           <!-- </a> -->
+                        <!-- </div> -->
                       
                      </div>
                   </div>
