@@ -24,7 +24,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet">
       <!-- Custom CSS -->
       <link rel="stylesheet" type="text/css" href="style.css">
-      <title>About | Traveler – Travel & Trip Business HTML5 Template</title>
+      <title>About | Morning Breeze</title>
    </head>
    <body>
       <div id="siteLoader" class="site-loader">
@@ -56,7 +56,7 @@
                         <div class="col-lg-8">
                            <div class="about-content">
                               <figure class="about-image">
-                                 <img src="assets/images/img27.jpg" alt="">
+                                 <img src="assets/images/13d.png" alt="">
                                  <div class="about-image-content">
                                     <h3>WE ARE BEST FOR TOURS & TRAVEL SINCE 2004 !</h3>
                                  </div>
