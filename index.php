@@ -49,7 +49,7 @@
                               <p style="font-size:25px`1"> </p>
                               <div class="banner-btn">
                                  <!-- <a href="about.html" class="round-btn">LEARN MORE</a> -->
-                                 <!-- <a href="booking.html" class="outline-btn outline-btn-white">BOOK NOW</a> -->
+                                 <!-- <a href="contact.php" class="outline-btn outline-btn-white">BOOK NOW</a> -->
                               </div>
                            </div>
                         </div>
@@ -66,7 +66,7 @@
                               <p>WE ARE BEST FOR TOURS & TRAVEL SINCE 2004 !<</p>
                               <div class="banner-btn">
                                  <!-- <a href="about.html" class="round-btn">LEARN MORE</a>
-                                 <a href="booking.html" class="outline-btn outline-btn-white">BOOK NOW</a> -->
+                                 <a href="contact.php" class="outline-btn outline-btn-white">BOOK NOW</a> -->
                               </div>
                            </div>
                         </div>
@@ -100,7 +100,7 @@
                                     </div>
                                  </div>
                                  <span class="cat-link">
-                                    <!-- <a href="destination.html">Australia</a> -->
+                                    <!-- <a href="contact.php">Australia</a> -->
                                  </span>
                                  <h3>
                                     <a href="STUDY_IN_AUSTRALIA.php">Australia</a>
